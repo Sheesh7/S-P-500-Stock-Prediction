@@ -88,14 +88,10 @@ Make sure to install missing packages using `pip install package_name` if runnin
 
 ---
 
-## Author
+## ✍️ Author
 
-**Your Name**  
-Email: your.email@example.com  
-GitHub: [your-github-username](https://github.com/your-github-username)  
-LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)  
-
-*Feel free to reach out for questions, suggestions, or collaborations!*
+**Yashish R. Eriki**  
+Data Science Student
 
 ---
 
